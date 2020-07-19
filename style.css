@@ -1,0 +1,22 @@
+p{
+  color:black;
+  font-size: 25px;
+  font-style: Verdana;
+  text-transform: lowercase;
+  margin-left: 73px;
+  margin-right: 73px;
+}
+body
+{
+  background-color:pink;
+  background-image: url(back.jpg);
+}
+li{
+  font-size: 36px;
+  background-color:violet;
+}
+{
+background-color: pink;
+border-width:15px;
+border-style: dashed;
+}
